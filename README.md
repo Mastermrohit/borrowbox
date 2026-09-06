@@ -4,9 +4,7 @@
 
 BorrowBox is a campus-based item-sharing platform that lets students list items they own but rarely use, and discover items they need temporarily — without buying anything new. From scientific calculators to chargers, books to sports gear, BorrowBox creates a trusted, structured borrowing ecosystem right within your campus community.
 
-> 🚀 **Live Demo:** [ADD LIVE DEMO LINK HERE]
->
-> 💻 **GitHub Repository:** [ADD REPOSITORY LINK HERE]
+> 💻 **GitHub Repository:** https://github.com/Mastermrohit/borrowbox/
 
 ---
 
