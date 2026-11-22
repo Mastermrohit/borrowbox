@@ -141,12 +141,10 @@ Every user has a three-tab dashboard:
 
 | Screen | Preview |
 |---|---|
-| Browse Items | `![Browse](screenshots/browse.png)` |
-| Item Detail | `![Detail](screenshots/item-detail.png)` |
-| Post Item | `![Post](screenshots/post-item.png)` |
-| Request Inbox (Owner) | `![Inbox](screenshots/request-inbox.png)` |
-| My Requests (Borrower) | `![Requests](screenshots/my-requests.png)` |
-| Return Flow | `![Return](screenshots/return-flow.png)` |
+| Browse Items | `![Browse]([screenshots/browse.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/browse.png))` |
+| Post Item | `![Post]([screenshots/post-item.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/post-item.png))` |
+| Request Inbox (Owner) | `![Inbox]([screenshots/request-inbox.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/request-inbox.png))` |
+| My Requests (Borrower) | `![Requests]([screenshots/my-requests.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/my-requests.png))` |
 
 ---
 
