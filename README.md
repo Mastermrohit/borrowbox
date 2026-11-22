@@ -137,14 +137,12 @@ Every user has a three-tab dashboard:
 
 ## 📸 Screenshots
 
-> Add screenshots to a `/screenshots` folder in the repository and update the paths below.
-
 | Screen | Preview |
 |---|---|
-| Browse Items | `![Browse](https://github.com/Mastermrohit/borrowbox/blob/824b)` |
-| Post Item | `![Post](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/post-item.png)` |
-| Request Inbox (Owner) | `![Inbox](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/request-inbox.png)` |
-| My Requests (Borrower) | `![Requests](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/my-requests.png)` |
+| Browse Items | ![image alt](https://github.com/Mastermrohit/borrowbox/blob/749d35adb691a2c675b218c9807a183744471bd1/browse.png) |
+| Post Item | ![Post](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/post-item.png) |
+| Request Inbox (Owner) | ![Inbox](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/request-inbox.png) |
+| My Requests (Borrower) | ![Requests](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/my-requests.png) |
 
 ---
 
