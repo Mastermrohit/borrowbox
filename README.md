@@ -141,10 +141,10 @@ Every user has a three-tab dashboard:
 
 | Screen | Preview |
 |---|---|
-| Browse Items | `![Browse]([screenshots/browse.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/browse.png))` |
-| Post Item | `![Post]([screenshots/post-item.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/post-item.png))` |
-| Request Inbox (Owner) | `![Inbox]([screenshots/request-inbox.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/request-inbox.png))` |
-| My Requests (Borrower) | `![Requests]([screenshots/my-requests.png](https://github.com/Mastermrohit/borrowbox/blob/824be950c28b00c6decdecbb7d274e4f4f0ed6a4/screenshots/my-requests.png))` |
+| Browse Items | `![Browse](https://github.com/Mastermrohit/borrowbox/blob/824b)` |
+| Post Item | `![Post](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/post-item.png)` |
+| Request Inbox (Owner) | `![Inbox](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/request-inbox.png)` |
+| My Requests (Borrower) | `![Requests](https://github.com/Mastermrohit/borrowbox/blob/4d4a5f7a4e3afb58b5d76ea824223c759950f295/my-requests.png)` |
 
 ---
 
